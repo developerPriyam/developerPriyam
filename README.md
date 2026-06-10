@@ -160,17 +160,6 @@ Python • OpenCV • NumPy • Computer Vision
 </div>
 
 ---
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=developerPriyam&theme=tokyonight&row=1&column=7"/>
-
-</div>
-
----
-
 # 🎯 Current Focus
 
 * Building End-to-End Machine Learning Projects
