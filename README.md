@@ -151,16 +151,6 @@ Python • OpenCV • NumPy • Computer Vision
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=developerPriyam&theme=tokyonight"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
