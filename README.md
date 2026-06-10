@@ -6,6 +6,7 @@
 
 
 <h3 align="center">
+ELECTRONICS AND COMMUNICATION ENGINEER
 Machine Learning • Data Science • Computer Vision • Financial Analytics
 </h3>
 
