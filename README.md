@@ -2,15 +2,34 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Priyam%20Gupta&fontSize=55&fontAlignY=40&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20Computer%20Vision&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=28\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=900\&lines=Machine+Learning+Enthusiast;Data+Science+Explorer;Computer+Vision+Developer;Building+AI-Powered+Applications;Electronics+%26+Communication+Engineer)](https://git.io/typing-svg)
-
-</div>
-
----
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/priyam-gupta-619432214)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/developerPriyam)[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:priyamgupta304@gmail.com)
+
+<h3 align="center">
+Machine Learning • Data Science • Computer Vision • Financial Analytics
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Electronics+%26+Communication+Engineer;Machine+Learning+Enthusiast;Data+Science+Explorer;Computer+Vision+Developer;Building+AI-Powered+Applications;Future+AI+Engineer"/>
+</p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/priyam-gupta-619432214">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/developerPriyam">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:priyamgupta304@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=developerPriyam&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -28,13 +47,17 @@
 
 ⚡ Exploring Intelligent Systems and Embedded Technologies
 
-🌱 Currently learning:
+🌱 Currently Learning
 
-* Machine Learning
-* Data Science
-* Computer Vision
-* Data Structures & Algorithms
-* MLOps & Model Deployment
+• Machine Learning
+
+• Data Science
+
+• Computer Vision
+
+• Data Structures & Algorithms
+
+• MLOps & Model Deployment
 
 ---
 
