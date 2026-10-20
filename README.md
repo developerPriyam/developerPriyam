@@ -173,17 +173,21 @@ View My LeetCode Profile →
 
 </div>
 
+
 ---
 
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=developerPriyam&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph"/>
+<a href="https://github.com/developerPriyam">
+<img src="https://github-readme-activity-graph-ivory-phi.vercel.app/graph?username=developerPriyam&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
+</a>
 
 </div>
 
 ---
+
 
 # 🎯 Current Focus
 
