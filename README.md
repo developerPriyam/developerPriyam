@@ -183,17 +183,8 @@ A full-stack application that combines machine learning with financial data anal
 
 </div>
 
----
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-<a href="https://github.com/developerPriyam">
-<img src="https://ghchart.rshah.org/409ba5/developerPriyam" alt="GitHub Contribution Calendar" width="100%"/>
-</a>
-
-</div>
 
 ---
 
